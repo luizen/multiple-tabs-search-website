@@ -57,12 +57,12 @@ a {
 }
 
 a:hover,
-a[href="#toc"]:hover {
+a[href="#top"]:hover {
     color: #005f99;
     text-decoration: underline;
 }
 
-a[href="#toc"] {
+a[href="#top"] {
     color: #00000075;
     font-size: 0.9em;
 }
