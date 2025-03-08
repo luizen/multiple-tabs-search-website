@@ -8,7 +8,7 @@ body {
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
-    font-size: 0.9em;
+    font-size: 0.87em;
     font-style: normal;
     font-variation-settings: "wdth" 100;
     padding: 0px 15px;
@@ -65,4 +65,18 @@ a[href="#toc"]:hover {
 a[href="#toc"] {
     color: #00000075;
     font-size: 0.9em;
+}
+
+code {
+    background-color: #0000001b;
+    padding: 3px 5px;
+    border-radius: 2px;
+}
+
+em {
+    font-family: monospace;
+    font-style: normal;
+    background-color: #3e30d31b;
+    padding: 3px 5px;
+    border-radius: 2px;
 }
