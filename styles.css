@@ -50,6 +50,15 @@ footer {
     margin-right: 5px;
 }
 
+.highlighted-important {
+
+    background-color: #ff00001f;
+    padding: 3px 5px;
+    border-radius: 2px;
+    font-family: monospace;
+    font-style: normal;
+}
+
 a {
     text-decoration: none;
     color: #007acc;
@@ -77,6 +86,6 @@ em {
     font-family: monospace;
     font-style: normal;
     background-color: #3e30d31b;
-    padding: 3px 5px;
+    padding: 3px 3px;
     border-radius: 2px;
 }
